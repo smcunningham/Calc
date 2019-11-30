@@ -1,0 +1,5 @@
+# gitignore template for Calc - Simple Cobra CLI Application
+#
+
+# Ignore application files that are auto-generated
+calc
